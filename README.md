@@ -11,9 +11,10 @@ Sales Data: The dataset used for this analysis is the ".csv file" contains infor
 
 ### Tools
 
-- Excel - Data Cleaning
-        - Data Modelling
-        - Dashboard Making
+- Excel
+1.Data Cleaning
+2.Data Modelling
+3.Dashboard Making
 
 ### Below are the key point indicators in order to analyze the sales data and generate insights out of it:
 - Storewise sales
