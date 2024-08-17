@@ -27,18 +27,19 @@ Sales Data: The dataset used for this analysis is the ".csv file" contains infor
 - Productwise Sales
 
 # Results/ Findings:
--Gecko store is having the maximum sales and Storeclean store is having minimum sales.
 
--No Region can be able achieve the targeted sales.
+- Gecko store is having the maximum sales and Storeclean store is having minimum sales.
 
--Shweta Kalla, Samuel George and Wahid Khan are the top 3 salesman achieved maximum sales.
+- No Region can be able achieve the targeted sales.
 
--Pre-Covid period is having maximum sales.
+- Shweta Kalla, Samuel George and Wahid Khan are the top 3 salesman achieved maximum sales.
 
--In year 2018, 2019 and 2020 the targeted sales has been not achieved.
+- Pre-Covid period is having maximum sales.
 
--The customers visited store target has not been achieved.
+- In year 2018, 2019 and 2020 the targeted sales has been not achieved.
 
--The Spring season is having the maximum sales.
+- The customers visited store target has not been achieved.
 
--The Garnier products is having maximum sales.
+- The Spring season is having the maximum sales.
+
+- The Garnier products is having maximum sales.
